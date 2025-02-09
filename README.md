@@ -1,2 +1,3 @@
-# oracle-1z0-071-practice
-Repositorio para prepararme para la certificación Oracle Database SQL (1Z0-071) y documentar mis conocimientos en bases de datos. Aquí practico la creación y modelado de bases de datos, gestión de usuarios, permisos, optimización de consultas y otras habilidades clave para un entorno laboral en administración de bases de datos.
+Este repositorio está dedicado a la preparación para la certificación Oracle Database SQL (1Z0-071) y a la documentación de mis conocimientos en bases de datos, con un enfoque práctico en Oracle. Aquí realizaré ejercicios de creación y modelado de bases de datos, gestión de usuarios y permisos, optimización de consultas, manipulación de datos y todas las habilidades necesarias para aplicar en un entorno laboral.
+
+Este espacio servirá como un repositorio de aprendizaje y referencia para el desarrollo de soluciones en Oracle SQL, con el objetivo de fortalecer mis competencias como futuro DBA o especialista en bases de datos.
