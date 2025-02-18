@@ -1,0 +1,45 @@
+Requerimientos para modelar base de datos para una clinica veterinaria.
+
+A partir de aqui se agregaran los Constraints ademas de dar nombre a las tablas y colocar los campos correspondientes con su tipo de dato.
+
+1. Gestor de Clientes:
+o Registrar información de los clientes:
+ Nombre completo.
+ Dirección.
+ Teléfono y correo electrónico.
+o Relacionar cada cliente con una o más mascotas.
+2. Gestor de Mascotas:
+o Registrar información de las mascotas:
+ Nombre.
+ Especie (perro, gato, ave, etc.).
+ Raza.
+ Edad.
+ Historial médico.
+o Asignar cada mascota a un cliente.
+3. Gestor de Citas:
+o Programar citas con los siguientes datos:
+ Fecha y hora.
+ Razón de la visita (consulta general, vacunación, cirugía, etc.).
+ Veterinario asignado.
+o Mostrar disponibilidad de los veterinarios.
+o Generar recordatorios automáticos para los clientes vía correo electrónico o SMS.
+4. Gestor de Veterinarios:
+o Registrar información de los veterinarios:
+ Nombre completo.
+ Especialidades (cirugía, dermatología, odontología, etc.).
+ Horarios de atención.
+o Relacionar veterinarios con las citas programadas.
+5. Gestor de Inventarios:
+o Registrar medicamentos y productos disponibles:
+ Nombre del producto.
+ Cantidad en inventario.
+ Fecha de vencimiento (si aplica).
+o Generar alertas cuando los niveles de inventario sean bajos o un producto esté
+próximo a vencer.
+6. Historial Clínico:
+o Mantener un registro detallado de los tratamientos realizados a cada mascota:
+ Fecha.
+ Diagnóstico.
+ Procedimientos realizados.
+ Medicamentos administrados o recetados.
+o Permitir la consulta rápida del historial en futuras visitas.
